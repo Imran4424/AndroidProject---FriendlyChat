@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508002697802",
+    "project_id": "friendly-chat-a344e",
+    "storage_bucket": "friendly-chat-a344e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508002697802:android:14c1ad13c32eb8655fdcb3",
+        "android_client_info": {
+          "package_name": "com.imran.android.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508002697802-edrpp6rirldgf3ujd8rfig848vbeocb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imran.android.friendlychat",
+            "certificate_hash": "a82d8b4f77e082de97985d691ad4ba18807f482e"
+          }
+        },
+        {
+          "client_id": "508002697802-tq0f91jhk9gjlmoth3nmntb3sslatanc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB86AuYXUl_4D0bfdvIB76Jv0wXwsw0Gj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508002697802-tq0f91jhk9gjlmoth3nmntb3sslatanc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
